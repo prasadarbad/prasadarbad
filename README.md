@@ -3,14 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadarbad&label=Profile%20views&color=0e75b6&style=flat" alt="prasadarbad" /> </p>
 
-<lottie-player
-  autoplay
-  controls
-  loop
-  mode="normal"
-  src="https://assets10.lottiefiles.com/packages/lf20_y1ijuz2k.json"
-  style="width: 320px"
-></lottie-player>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadarbad" alt="prasadarbad" /></a> </p>
 
