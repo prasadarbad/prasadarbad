@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadarbad&label=Profile%20views&color=0e75b6&style=flat" alt="prasadarbad" /> </p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+<script src="/node_modules/@lottiefiles/lottie-player/dist/lottie-player.js"></script>
 <lottie-player
   autoplay
   controls
