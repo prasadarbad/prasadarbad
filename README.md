@@ -2,7 +2,14 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadarbad&label=Profile%20views&color=0e75b6&style=flat" alt="prasadarbad" /> </p>
-<img align="right" alt="prasadarbad" width="400" src="https://lottiefiles.com/31675-programming">
+<lottie-player
+  autoplay
+  controls
+  loop
+  mode="normal"
+  src="https://assets10.lottiefiles.com/packages/lf20_y1ijuz2k.json"
+  style="width: 320px"
+></lottie-player>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadarbad" alt="prasadarbad" /></a> </p>
 
