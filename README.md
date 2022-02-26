@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arbad_prasad" target="blank"><img src="https://img.shields.io/twitter/follow/arbad_prasad?logo=twitter&style=for-the-badge" alt="arbad_prasad" /></a> </p>
 
-- 🔭 I’m currently working on flutter [Expense App](https://github.com/prasadarbad/expense_app)
+- 🔭 I’m currently working on  [Meals App](https://github.com/prasadarbad/meals_app)
 
 - 🌱 I’m currently learning **Flutter**
 
